@@ -1,6 +1,5 @@
 # uav-obstacle-avoidance
 
-Input waypoint file is in the input folder.
-Obstacles are provided in form of waypoint file in the input folder. ROI option is used to determine the location of the obstacle and height is used to determine the radius of the obstacle.
+The input waypoint file can be found within the 'input' folder. Obstacle data is provided in the form of waypoint files within the same directory. The Region of Interest (ROI) option is employed to ascertain the obstacle's location, while the height parameter determines its radius.
 
-Output with modified waypoint file is saved in the output folder.
+Any modified waypoint files are saved in the 'output' folder for convenient access.
